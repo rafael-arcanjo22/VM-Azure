@@ -60,7 +60,8 @@ Criar IP publico e habilitar a porta RDP na interface de Rede:
 
 Clicar na aba Review + Create:
 ![image](https://user-images.githubusercontent.com/119356073/220225865-cce68017-e5f1-45eb-8f6b-9a2c91154640.png)
-
+##
+**Link aula prática: https://www.youtube.com/watch?v=KOsXjBED9hU**
 
 
 
